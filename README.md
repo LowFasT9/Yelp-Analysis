@@ -1,5 +1,6 @@
 # Yelp-Analysis
-Here are some Interesting Findings from the Yelp Dataset || All the findings and visualizations can be recreated by using the edited_main_.py file.
+|| All the findings and visualizations can be recreated by using the edited_main_.py file ||
+Here are some Interesting Findings from the Yelp Dataset 
 
 - Considering the star rating range from 1-5 the mean or average of star ratings is 3.83 which is above average meaning around 78% of the restaurants in America are considered decent by the customers. 
 
